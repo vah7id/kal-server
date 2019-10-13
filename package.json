@@ -1,0 +1,16 @@
+{
+  "name": "kal",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://vah7id.github.io/kal",
+  "dependencies": {
+    "websocket": "1.0.30"
+  },
+  "scripts": {
+    "start": "nodemon ws_server.js"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.6.2",
+    "nodemon": "^1.19.3"
+  }
+}
